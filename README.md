@@ -1,2 +1,2 @@
 # spring-sesurity-exercise
-execrice demo for spring-security
+exercise demo for spring-security
